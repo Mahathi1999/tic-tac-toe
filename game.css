@@ -1,0 +1,29 @@
+body{
+    text-align:center;
+    background: linear-gradient(to right, #fc354c, #0abfbc);
+  
+}
+#startButton{
+    width:100px;
+    height:40px;
+    border-radius:7px;
+    background-color:rgba(8, 253, 8, 0.7)
+}
+
+
+td{
+    padding:2.5em;
+    border-radius:10px;
+    background-color:rgba(255,255,255,0.7);
+    width:6em;
+    height:6em;
+    border-spacing: unset;
+    
+}
+
+#controlls button{
+    width:5em;
+}
+h1{
+    color:rgba(200,200,200,1);
+}
